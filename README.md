@@ -1,5 +1,2 @@
 # 60_dni_pracy
-Plan pracy:
-1) nauczyć się w miarę obsługiwać githuba 
-2) Zrobić wreszcie ten program do malowania grafu
-3)poduczyć się html i css
+Kara za słabe oceny.
